@@ -12,7 +12,7 @@
 
 ## 🏗️ System Architecture
 
-![System Architecture Placeholder](images/architecture-diagram.png)
+![Image](https://github.com/user-attachments/assets/8853d2a7-9c19-4e53-ae18-0fb0b62e1b2a)
 
 ### Database Schema
 The system is built on three core tables:
@@ -107,7 +107,9 @@ SELECT func_calculate_annual_tax(1001, 2024) as annual_tax FROM dual;
 
 ## 📊 Sample Output
 
-![Sample Processing Output](images/processing-output.png)
+![Image](https://github.com/user-attachments/assets/151353db-056e-442e-9edc-0df3784df809)
+![image](https://github.com/user-attachments/assets/1c1b8aeb-0919-4503-b2d4-beb762df2cc6)
+
 
 ### Processing Results
 - ✅ **Individual Processing**: Detailed breakdown of salary components
@@ -177,14 +179,6 @@ payroll-system/
 3. Commit changes (`git commit -am 'Add new feature'`)
 4. Push to branch (`git push origin feature/new-feature`)
 5. Create a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors
-
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
 
 ## 🙏 Acknowledgments
 
