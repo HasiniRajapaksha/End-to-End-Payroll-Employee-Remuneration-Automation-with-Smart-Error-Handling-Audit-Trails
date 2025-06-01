@@ -1,0 +1,2 @@
+# End-to-End-Payroll-Employee-Remuneration-Automation-with-Smart-Error-Handling-Audit-Trails
+An end-to-end payroll automation suite built with Oracle PL/SQL, handling salary calculations, tax deductions, bonuses, and allowances. Supports individual and batch processing with intelligent error handling and detailed audit trails, ensuring accurate, reliable, and compliant employee remuneration management.
